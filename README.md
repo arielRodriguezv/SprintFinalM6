@@ -10,3 +10,7 @@ Las vistas estan creadas en formato html y gestionadas mediante thymeleaf.
 El proyecto esta basado en modelo MVC, y sus dependencias estan gestionadas mediante Maven.
 
 https://github.com/arielRodriguezv/SprintFinalM6.git
+
+https://github.com/Marcoslep/SprignModulo6.git
+
+http://github.com/josemaldonado-1/SprintFinalModulo6.git
